@@ -1,0 +1,19 @@
+HTML- hypertext markup language ...? 
+html is not a programing lang..
+It is a markup lang ..
+markup..?- mrkup yani jo  markup ke form main likhi jati hai...
+<>
+
+1. hr -tag niche line khichne ka kaam karti hai.....
+2. <ol>  - ye order list hote hain
+3. <ul>  - ye unorder list hote hai /unorder list ko follow karte hai 
+4. <p> - ye pragraph hote hai 
+5. <h1> to <h6> - ye heading hote hai total six heading hote hai samje bhai 
+6.  <br> - line ko breack karne ke liye use karte hai hum br ka..
+7.  <b>  - ye bolt/bold karne ka kaam karta hai
+8.  <i> - italic likne ke liye ye huse karte hai hum.........
+9. img tag use hota hain hamri images ko lagne ke liye ....
+10. semetics - ye hum css main padh lenge..
+11. form ...
+12. imput ..
+13. placeholder...
